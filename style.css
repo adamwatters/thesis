@@ -27,7 +27,7 @@ body {
   justify-content: space-between;
   background: linear-gradient(rgba(27, 27, 27, 0.5), rgba(27, 27, 27, 0.5))
       no-repeat center center fixed,
-    url("./static/background-mobile.png") no-repeat center center fixed;
+    url("./static/background-mobile.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -35,7 +35,7 @@ body {
   body {
     background: linear-gradient(rgba(27, 27, 27, 0.5), rgba(27, 27, 27, 0.5))
         no-repeat center center fixed,
-      url("./static/background.png") no-repeat center center fixed;
+      url("./static/background.jpg") no-repeat center center fixed;
     background-size: cover;
   }
 }
